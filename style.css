@@ -1,0 +1,89 @@
+body {
+    background: #000;
+}
+
+.bg-light {
+    background: #000!important;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(40, 113, 247);
+}
+
+.navbar-light .navbar-toggler {
+    border-color: rgb(185, 10, 10);
+}
+
+.navbar-toggler-icon {
+    background: rgb(6, 145, 238);
+}
+
+.carousel-control-prev-icon {
+    background-image: none;
+}
+
+.carousel-control-next-icon {
+    background-image: none;
+}
+
+.carousel-indicators li {
+    background-color: rgb(10, 30, 211);
+}
+
+dl,
+ol,
+ul {
+    margin-top: 0;
+    margin-bottom: -3rem;
+}
+
+
+/*----------SECTION----------*/
+
+section .box {
+    background: rgb(218, 216, 216);
+    text-align: center;
+    padding: 35px 0;
+    margin-top: 80px;
+    border-radius: 7px;
+}
+
+section .box img {
+    width: 100%;
+}
+
+section .box h2 {
+    color: rgb(29, 15, 73);
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+section .block_text p {
+    color: #fff;
+}
+
+section .block_text {
+    background: rgb(170, 170, 170);
+    border-radius: 3px;
+}
+
+section .block_text img {
+    width: 100%;
+}
+
+section .block_text {
+    padding: 30px 20px 80px 20px;
+}
+
+section .sledushshi {
+    margin-top: 80px;
+}
